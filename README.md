@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Olubo
+- 👋 Hi, I’m @OluGuru
 - 👀 I’m interested in Blockchain Projects.
 - 🌱 I’m currently learning Blockchain Audit.
 - 💞️ I’m looking to collaborate on blockchain projects.
-- 📫 How to reach me olubola.morgan@gmail.com
+- 📫 How to reach me blessedoluguru@gmail.com
 
 <!---
 Olubo/Olubo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
